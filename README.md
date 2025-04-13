@@ -5,7 +5,7 @@
 1. **Clone this repo**
 
 ```bash
-git clone https://github.com/your-username/furniture-app.git
+git clone https://github.com/nonnyesodo/Furniture-App
 cd furniture-app
 ```
 
